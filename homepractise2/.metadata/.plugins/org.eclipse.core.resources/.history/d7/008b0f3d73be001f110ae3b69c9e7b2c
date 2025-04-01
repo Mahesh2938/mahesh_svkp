@@ -1,0 +1,15 @@
+package collections;
+
+import java.util.list;
+import java.util.vector;
+
+public class Vectorcollection {
+
+	public static void main(String[] args) {
+		List<Interger> v=new Vector<>();
+		v.add(1);
+		v.add(2);
+		System.out.println(v);
+		}
+
+}

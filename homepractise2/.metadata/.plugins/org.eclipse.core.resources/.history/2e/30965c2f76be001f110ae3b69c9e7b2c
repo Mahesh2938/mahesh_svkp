@@ -1,0 +1,11 @@
+package collections;
+
+public class Array_list {
+
+	public static void main(String[] args) {
+		List<Integer>arr=new  Array_list<Integer>();
+		
+
+	}
+
+}
