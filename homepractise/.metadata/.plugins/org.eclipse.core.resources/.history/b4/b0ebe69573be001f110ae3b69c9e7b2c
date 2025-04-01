@@ -1,0 +1,19 @@
+package collections;
+
+import java.util.List;
+import java.util.Vector;
+
+public class _collections {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Integer> v=new Vector<Integer>();
+		v.add(1);
+		v.add(2);
+		System.out.println(v);
+		v.capacity();
+	
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package collections;
+
+public class Vectorcollection {
+
+	public static void main(String[] args) {
+		Vectorcollection v=new Vectorcollection();
+		v.add(1);
+		v.add(2);
+		}
+
+}
